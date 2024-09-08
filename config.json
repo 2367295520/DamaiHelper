@@ -18,7 +18,7 @@
     "viewer_person": [
         1
     ],
-    "driver_path": "C:\\Users\\admin\\Desktop\\damaihelper-main\\chromedriver.exe",
+    "driver_path": "F:\\DamaiProject\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe",
     "damai_url": "https://www.damai.cn/",
     "target_url": "https://m.damai.cn/damai/detail/item.html?itemId=门票ID",
     "comment": {
